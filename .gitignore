@@ -1,0 +1,9 @@
+# file types to ignore
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+*.doc
+*.docx
+*.ppt
+*.pptx
